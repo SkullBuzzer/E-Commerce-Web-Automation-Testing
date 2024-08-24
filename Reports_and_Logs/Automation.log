@@ -1,0 +1,225 @@
+2024-04-29 15:10:54,505 : INFO: Test_New_User_Registeration :  *********** Test_New_User_Registeration ******************* 
+2024-04-29 15:10:54,505 : INFO: Test_New_User_Registeration : *********** test case started *******************
+2024-04-29 15:10:57,881 : INFO: Test_New_User_Registeration : *********** user created successfully *******************
+2024-04-29 15:10:58,350 : INFO: Test_New_User_Registeration : *********** navigated to home page successfully *******************
+2024-04-29 19:41:06,182 : INFO: Test_New_User_Registeration :  *********** Test_New_User_Registeration ******************* 
+2024-04-29 19:41:06,183 : INFO: Test_New_User_Registeration : *********** test case started *******************
+2024-04-29 19:41:09,415 : INFO: Test_New_User_Registeration : *********** user created successfully *******************
+2024-04-29 19:41:09,921 : INFO: Test_New_User_Registeration : *********** navigated to home page successfully *******************
+2024-04-29 19:42:18,752 : INFO: Test_New_User_Registeration :  *********** Test_New_User_Registeration ******************* 
+2024-04-29 19:42:18,752 : INFO: Test_New_User_Registeration : *********** test case started *******************
+2024-04-29 19:42:24,522 : INFO: Test_New_User_Registeration : *********** user created successfully *******************
+2024-04-29 19:42:25,456 : INFO: Test_New_User_Registeration : *********** navigated to home page successfully *******************
+2024-04-29 19:53:14,098 : INFO: Test_New_User_Registeration :  *********** Test_New_User_Registeration ******************* 
+2024-04-29 19:53:14,098 : INFO: Test_New_User_Registeration : *********** test case started *******************
+2024-04-29 19:53:17,629 : INFO: Test_New_User_Registeration : *********** user created successfully *******************
+2024-04-29 19:53:18,105 : INFO: Test_New_User_Registeration : *********** navigated to home page successfully *******************
+2024-04-29 22:06:34,590 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-04-29 22:06:34,591 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-04-29 22:06:38,629 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** recieved expected error message ******
+2024-04-29 22:48:22,313 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-04-29 22:48:22,313 : INFO: TestUserRegistration : *********** test case started *******************
+2024-04-29 22:48:26,487 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-04-29 22:48:26,987 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-04-29 22:48:58,083 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-04-29 22:48:58,083 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-04-29 22:49:01,703 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** recieved expected error message ******
+2024-04-30 09:31:42,776 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-04-30 09:31:42,777 : INFO: TestUserRegistration : *********** test case started *******************
+2024-04-30 09:31:45,968 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-04-30 09:31:46,451 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-04-30 09:32:05,382 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-04-30 09:32:05,382 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-04-30 09:32:08,920 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** recieved expected error message ******
+2024-05-09 08:01:05,920 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-09 08:01:06,072 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-09 08:01:08,302 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-05-09 08:01:08,817 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-05-12 11:15:44,148 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-12 11:15:44,332 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-12 11:44:33,898 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-12 11:44:33,898 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-12 11:51:33,097 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-12 11:51:33,097 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-12 11:55:01,813 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-12 11:55:01,813 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-12 11:57:36,604 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-12 11:57:36,605 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-12 11:57:43,110 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-05-12 11:57:43,784 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-05-12 11:58:39,642 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-12 11:58:39,643 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-12 12:47:39,452 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-12 12:47:39,453 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-12 12:47:52,655 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-05-12 12:47:53,199 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-05-12 12:48:08,376 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-12 12:48:08,376 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-12 12:52:30,265 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-12 12:52:30,266 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-12 12:52:35,561 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-05-12 12:52:36,102 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-05-12 13:03:09,717 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-12 13:03:09,718 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-12 13:04:51,091 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-12 13:04:51,092 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-12 13:06:09,937 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-12 13:06:09,938 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-12 13:06:14,152 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** recieved expected error message ******
+2024-05-12 13:06:50,472 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-12 13:06:50,473 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-12 13:06:54,549 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** recieved expected error message ******
+2024-05-12 13:34:37,660 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-12 13:34:37,661 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-12 13:35:30,858 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-12 13:35:30,858 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-12 13:35:35,254 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** recieved expected error message ******
+2024-05-12 13:40:54,533 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-12 13:40:54,533 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-12 13:40:57,631 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** recieved expected error message ******
+2024-05-12 13:44:42,865 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-12 13:44:42,865 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-12 13:44:48,976 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** recieved expected error message ******
+2024-05-12 14:04:25,258 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-12 14:04:25,259 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-12 14:04:29,623 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-05-12 14:04:30,183 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-05-12 14:04:44,677 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-12 14:04:44,677 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-12 14:04:48,806 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** recieved expected error message ******
+2024-05-13 12:04:28,625 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-13 12:04:28,625 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-13 12:04:32,429 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-05-13 12:04:32,951 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-05-13 12:04:55,671 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-13 12:04:55,672 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-13 12:05:09,894 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** re-trying same code again *******
+2024-05-13 12:05:09,895 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-13 12:05:09,895 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-13 12:09:38,858 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-13 12:09:38,858 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-13 12:09:43,260 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-05-13 12:09:43,831 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-05-13 12:10:01,761 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-13 12:10:01,762 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-13 12:10:16,361 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** re-trying same code again *******
+2024-05-13 12:10:16,361 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-13 12:10:16,361 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-13 14:29:34,244 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-13 14:29:34,245 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-13 14:29:37,623 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-05-13 14:29:38,176 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-05-13 14:29:52,284 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-13 14:29:52,284 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-13 14:30:09,029 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** re-trying same code again *******
+2024-05-13 14:30:09,029 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-13 14:30:09,029 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-18 15:07:37,475 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-18 15:07:37,535 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-18 15:07:51,311 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** re-trying same code again *******
+2024-05-18 15:07:51,311 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-05-18 15:07:51,312 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-05-18 15:16:27,795 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-18 15:16:27,795 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-18 15:16:30,998 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-05-18 15:16:31,581 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-05-18 15:28:27,426 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-05-18 15:28:27,426 : INFO: TestUserRegistration : *********** test case started *******************
+2024-05-18 15:28:33,993 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-05-18 15:28:34,802 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-07-25 16:50:44,008 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-07-25 16:50:44,109 : INFO: TestUserRegistration : *********** test case started *******************
+2024-07-25 16:51:42,398 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-07-25 16:51:43,195 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-08-25 10:54:49,745 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-25 10:54:49,746 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-25 10:56:28,294 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-25 10:56:28,294 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-25 10:57:33,877 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-25 10:57:33,877 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-25 11:16:59,865 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-25 11:16:59,866 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-25 12:00:16,662 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-25 12:00:16,662 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-25 12:01:57,526 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-25 12:01:57,526 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-25 12:18:58,078 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-25 12:18:58,078 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-25 12:23:38,725 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-25 12:23:38,725 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-25 12:24:13,663 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-25 12:24:13,664 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-25 12:25:16,204 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-25 12:25:16,204 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-25 12:28:36,530 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-25 12:28:36,530 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 18:14:41,905 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 18:14:42,085 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 18:43:13,167 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 18:43:13,168 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-31 23:04:59,276 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-31 23:04:59,277 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-31 23:08:35,022 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-31 23:08:35,022 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-31 23:08:42,887 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-08-31 23:08:45,231 : INFO: TestUserRegistration : *********** navigated to home page successfully *******************
+2024-08-28 21:27:08,849 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 21:27:08,917 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 21:39:35,950 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 21:39:35,950 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 21:46:19,951 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 21:46:19,952 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 21:57:08,001 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 21:57:08,001 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 23:16:41,310 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 23:16:41,310 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 23:19:37,120 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 23:19:37,121 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 23:21:15,565 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 23:21:15,566 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 23:23:06,436 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 23:23:06,436 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 23:23:18,543 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-08-28 23:24:14,091 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 23:24:14,091 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 23:24:29,046 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-08-28 23:27:48,714 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 23:27:48,714 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 23:27:55,060 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-08-28 23:30:00,683 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 23:30:00,684 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 23:30:13,220 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-08-28 23:39:45,778 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 23:39:45,778 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 23:39:55,105 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-08-28 23:43:14,666 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-28 23:43:14,667 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-28 23:43:34,064 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-08-29 07:43:39,354 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-29 07:43:39,354 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-29 07:43:47,836 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-08-29 07:46:54,296 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-29 07:46:54,297 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-29 07:47:05,214 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-08-29 07:49:34,795 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-29 07:49:34,796 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-29 07:49:45,230 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-08-29 07:49:53,371 : INFO: TestUserRegistration : *********** logged out from application *******************
+2024-08-29 07:50:44,738 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-29 07:50:44,739 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-29 07:50:53,414 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-08-29 07:50:56,602 : INFO: TestUserRegistration : *********** logged out from application *******************
+2024-08-29 08:18:00,575 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-08-29 08:18:00,575 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-08-29 08:19:04,164 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-08-29 08:19:04,164 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-08-29 08:22:51,589 : INFO: TestUserRegistration :  *********** TestUserRegistration ******************* 
+2024-08-29 08:22:51,589 : INFO: TestUserRegistration : *********** test case started *******************
+2024-08-29 08:23:03,499 : INFO: TestUserRegistration : *********** user created successfully *******************
+2024-08-29 08:23:07,069 : INFO: TestUserRegistration : *********** logged out from application *******************
+2024-08-29 08:23:39,555 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-08-29 08:23:39,556 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-08-29 08:25:06,796 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-08-29 08:25:06,797 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******
+2024-08-29 08:27:21,210 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** TestExistingUserRegistrationAndMandatoryFields ******
+2024-08-29 08:27:21,210 : INFO: TestExistingUserRegistrationAndMandatoryFields : ****** adding duplicate user ******

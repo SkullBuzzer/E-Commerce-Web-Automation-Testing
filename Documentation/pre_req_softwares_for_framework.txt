@@ -1,0 +1,14 @@
+What is Hybrid Framework ?
+Ans: Framework is an organized way of maintaining the automation files. In hybrid framework all automation files communicates
+    each other to peform certain work.
+
+Why Hybrid framework:
+Ans: For Re-useablity and manitability
+
+Below Softwares are required with latest version to work with this framework
+1. Pytest : Unittest framework
+2. Selenium : Selenium Libraries
+3. Python : Programming language
+4. pytest-html : To get html reports
+5. Openpyxl : To work with excel files
+6. pytest-xdist : To run test cases parallely

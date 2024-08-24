@@ -1,0 +1,16 @@
+NEW_USER_INFO:
+        first_name: "gurubasava"
+        last_name: "patil"
+        email: "@gmail.com"
+        password: "gurupatil@1994"
+        conf_password: "gurupatil@1994"
+
+EXIST_USER_INFO:
+        first_name: "gurubasava"
+        last_name: "patil"
+        email: "guru@gmail.com"
+        password: "gurupatil@1994"
+        conf_password: "gurupatil@1994"
+
+PRODUCT_INFO:
+        product_name: "HTC"

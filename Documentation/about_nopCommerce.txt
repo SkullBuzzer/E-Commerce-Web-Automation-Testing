@@ -1,0 +1,10 @@
+nopCommerce is the best open-source eCommerce shopping cart solution. nopCommerce is free, and it is the most popular ASP.NET eCommerce platform. 
+The first nopCommerce version was released in 2008. At that time there were no free and open-source shopping carts that would not impose the limitations 
+on business processes and 
+flow hence the essential goal for nopCommerce was to fix that.
+
+The high quality of the product and its constant development led to creating the global nopCommerce community of over 250,000 members. 
+The philosophy of the open-source product allows us to receive the contribution of developers and businesses from around the world. 
+That helps us to grow faster and meet the highest security and technology standards.
+
+url for ref: https://www.nopcommerce.com/en/about-us
